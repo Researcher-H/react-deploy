@@ -8,6 +8,8 @@ function App() {
       <h1>My React App</h1>
       <h2>Author: Researcher H</h2>
       <img src={profileImage} alt="profile-image" />
+      <p>ソース</p>
+      <p>https://www.youtube.com/watch?v=F8s4Ng-re0E</p>
     </div>
   );
 }
